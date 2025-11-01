@@ -1,0 +1,10 @@
+{
+  "name": "Persistent Counter",
+  "short_name": "Counter",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "description": "A minimal Flutter counter app with persistent storage.",
+  "icons": []
+}

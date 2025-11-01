@@ -1,0 +1,15 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool
+pubspec.lock
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
